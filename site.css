@@ -11580,7 +11580,6 @@ h1 {
     font-size: 2em;
     font-weight: 600;
     letter-spacing: 2px;
-    font-family: "futura-pt";
     font-size: 36px;
     line-height: 1.2em;
     text-transform: uppercase;
@@ -11594,7 +11593,6 @@ h2 {
     font-size: 1.4em;
     font-weight: 600;
     letter-spacing: 1px;
-    font-family: "futura-pt";
     font-size: 24px;
     line-height: 1.2em;
     text-transform: uppercase;
@@ -11861,7 +11859,6 @@ h1.page-title {
     font-family: "Source Sans Pro", sans-serif;
     font-size: 39px;
     letter-spacing: 7px;
-    font-family: "futura-pt";
     font-size: 82px;
     line-height: 1em;
     text-transform: uppercase;
@@ -11934,7 +11931,6 @@ h1.page-title {
     font-size: 36px;
     text-transform: none;
     font-weight: 400;
-    font-family: "futura-pt";
     font-size: 72px;
     line-height: 1em;
     text-transform: uppercase;
@@ -12576,7 +12572,6 @@ h1.page-title {
     font-size: 2em;
     font-weight: 600;
     letter-spacing: 2px;
-    font-family: "futura-pt";
     font-size: 36px;
     line-height: 1.2em;
     text-transform: uppercase;
@@ -12591,7 +12586,6 @@ h1.page-title {
     font-size: 1.4em;
     font-weight: 600;
     letter-spacing: 1px;
-    font-family: "futura-pt";
     font-size: 24px;
     line-height: 1.2em;
     text-transform: uppercase;
@@ -12612,7 +12606,6 @@ h1.page-title {
     max-width: 100%
 }
 .menu-block .menu-section-title {
-    font-family: "futura-pt";
     font-weight: 700;
     font-size: 36px;
     text-transform: uppercase;
@@ -13340,7 +13333,6 @@ body.fixed-header #header {
     font-size: 18px;
     font-weight: normal;
     letter-spacing: 12px;
-    font-family: "futura-pt";
     font-size: 22px;
     text-transform: uppercase;
     text-decoration: none;
@@ -15891,7 +15883,6 @@ body.loaded.collection-type-index #content-wrapper {
     opacity: 1
 }
 .site-title-font {
-    font-family: "futura-pt";
     font-size: 22px;
     text-transform: uppercase;
     text-decoration: none;
@@ -15909,7 +15900,6 @@ body.loaded.collection-type-index #content-wrapper {
     font-style: normal
 }
 .page-title-font {
-    font-family: "futura-pt";
     font-size: 82px;
     line-height: 1em;
     text-transform: uppercase;
@@ -15929,7 +15919,6 @@ body.loaded.collection-type-index #content-wrapper {
     font-style: normal
 }
 .desc-bold-font {
-    font-family: "futura-pt";
     font-size: 72px;
     line-height: 1em;
     text-transform: uppercase;
@@ -15947,7 +15936,6 @@ body.loaded.collection-type-index #content-wrapper {
     font-style: normal
 }
 .h1-font {
-    font-family: "futura-pt";
     font-size: 36px;
     line-height: 1.2em;
     text-transform: uppercase;
@@ -15957,7 +15945,6 @@ body.loaded.collection-type-index #content-wrapper {
     font-style: normal
 }
 .h2-font {
-    font-family: "futura-pt";
     font-size: 24px;
     line-height: 1.2em;
     text-transform: uppercase;
